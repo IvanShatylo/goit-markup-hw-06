@@ -801,7 +801,7 @@ margin-bottom: 0;
     width: 592px;
     height: 581px;
     background-color: var(--title-text-color);
-    
+    padding: 40px;
 }
 
 .modal-close-btn {
@@ -833,7 +833,6 @@ margin-bottom: 0;
   
 .modal-form-title {
     margin-bottom: 12px;
-    margin-top: 33px;
   
     font-weight: 700;
     text-align: center;
@@ -878,8 +877,6 @@ margin-bottom: 0;
   
 .modal-form-field {
     margin-bottom: 10px;
-    padding-left: 41px;
-    padding-right: 39px;
 }
   
 .modal-form-field-comment {
